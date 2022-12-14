@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace RPGBB_Draft.Modele;
-internal class Budynek
+public class Budynek
 {
 	public Osada Osada;
 	public MiejscePracy MiejscePracy;

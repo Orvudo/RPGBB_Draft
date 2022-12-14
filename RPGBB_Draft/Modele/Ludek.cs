@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace RPGBB_Draft.Modele;
-internal class Ludek
+public class Ludek
 {
 	public IGrupa Grupa;
 	public IRola Rola;
